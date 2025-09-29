@@ -7,6 +7,6 @@ class Program
         Console.WriteLine("Dein Kommentar: ");
         string kommentar = Console.ReadLine();
         string[] forbiddenWords = { "viagra", "sex", "porno", "fick", "schlampe", "arsch", "neger", "negger", "huereson", "huere son" };
-        
+        int valid = 0;
     }
 }
