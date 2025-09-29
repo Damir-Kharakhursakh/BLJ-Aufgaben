@@ -11,6 +11,7 @@
     <projectFile>Aufgabe 7/Aufgabe 7.csproj</projectFile>
     <projectFile>Aufgabe 8.1/Aufgabe 8.1.csproj</projectFile>
     <projectFile>Aufgabe 8/Aufgabe 8.csproj</projectFile>
+    <projectFile>Aufgabe 9/Aufgabe 9.csproj</projectFile>
     <projectFile>Aufgabe2/Aufgabe2.csproj</projectFile>
     <projectFile>BLJ-Aufgaben/BLJ-Aufgaben.csproj</projectFile>
   </component>
@@ -19,9 +20,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3b96c15e-11e6-46c5-a438-0232099978b2" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Aufgabe 8/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Aufgabe 8/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.BLJ-Aufgaben/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.BLJ-Aufgaben/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aufgabe 8/bin/Debug/net9.0/Aufgabe 8.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Aufgabe 8/bin/Debug/net9.0/Aufgabe 8.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aufgabe 8/bin/Debug/net9.0/Aufgabe 8.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Aufgabe 8/bin/Debug/net9.0/Aufgabe 8.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aufgabe 8/bin/Debug/net9.0/Aufgabe 8.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Aufgabe 8/bin/Debug/net9.0/Aufgabe 8.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Aufgabe 8/obj/Debug/net9.0/Aufgabe 8.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Aufgabe 8/obj/Debug/net9.0/Aufgabe 8.AssemblyInfo.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Aufgabe 8/obj/Debug/net9.0/Aufgabe 8.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Aufgabe 8/obj/Debug/net9.0/Aufgabe 8.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aufgabe 8/obj/Debug/net9.0/Aufgabe 8.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Aufgabe 8/obj/Debug/net9.0/Aufgabe 8.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aufgabe 8/obj/Debug/net9.0/Aufgabe 8.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Aufgabe 8/obj/Debug/net9.0/Aufgabe 8.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aufgabe 8/obj/Debug/net9.0/Aufgabe 8.sourcelink.json" beforeDir="false" afterPath="$PROJECT_DIR$/Aufgabe 8/obj/Debug/net9.0/Aufgabe 8.sourcelink.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aufgabe 8/obj/Debug/net9.0/apphost.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Aufgabe 8/obj/Debug/net9.0/apphost.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aufgabe 8/obj/Debug/net9.0/ref/Aufgabe 8.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Aufgabe 8/obj/Debug/net9.0/ref/Aufgabe 8.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aufgabe 8/obj/Debug/net9.0/refint/Aufgabe 8.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Aufgabe 8/obj/Debug/net9.0/refint/Aufgabe 8.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BLJ-AufgabenC#.sln" beforeDir="false" afterPath="$PROJECT_DIR$/BLJ-AufgabenC#.sln" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,6 +69,8 @@
     <setting file="file://$PROJECT_DIR$/Aufgabe 7/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Aufgabe 8.1/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Aufgabe 8/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock://C:/BLJ/RiderAufgaben/BLJ-Aufgaben/Aufgabe 8/obj/Debug/net9.0/Aufgabe 8.AssemblyInfo.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Aufgabe 9/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Aufgabe2/Program.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
@@ -81,6 +93,7 @@
     &quot;.NET Project.Aufgabe 6.executor&quot;: &quot;Run&quot;,
     &quot;.NET Project.Aufgabe 7.executor&quot;: &quot;Run&quot;,
     &quot;.NET Project.Aufgabe 8.executor&quot;: &quot;Run&quot;,
+    &quot;.NET Project.Aufgabe 9.executor&quot;: &quot;Run&quot;,
     &quot;.NET Project.Aufgabe2.executor&quot;: &quot;Run&quot;,
     &quot;.NET Project.BLJ-Aufgaben.executor&quot;: &quot;Run&quot;,
     &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
@@ -95,7 +108,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected=".NET Project.Aufgabe 8">
+  <component name="RunManager" selected=".NET Project.Aufgabe 9">
     <configuration name="Aufgabe 1" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -326,6 +339,29 @@
         <option name="Build" />
       </method>
     </configuration>
+    <configuration name="Aufgabe 9" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="ENV_FILE_PATHS" value="" />
+      <option name="REDIRECT_INPUT_PATH" value="" />
+      <option name="PTY_MODE" value="Auto" />
+      <option name="MIXED_MODE_DEBUG" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="AUTO_ATTACH_CHILDREN" value="0" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Aufgabe 9/Aufgabe 9.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
     <configuration name="Aufgabe2" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -382,7 +418,7 @@
       <updated>1758880711582</updated>
       <workItem from="1758880712877" duration="2511000" />
       <workItem from="1759123973157" duration="17558000" />
-      <workItem from="1759144593575" duration="6406000" />
+      <workItem from="1759144593575" duration="10433000" />
     </task>
     <task id="LOCAL-00001" summary="Update">
       <option name="closed" value="true" />
@@ -424,7 +460,15 @@
       <option name="project" value="LOCAL" />
       <updated>1759145395259</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Aufgabe 8 fertig">
+      <option name="closed" value="true" />
+      <created>1759151603866</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1759151603866</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -438,7 +482,8 @@
     <MESSAGE value="Update Rename" />
     <MESSAGE value="Update" />
     <MESSAGE value="Update Check" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update Check" />
+    <MESSAGE value="Aufgabe 8 fertig" />
+    <option name="LAST_COMMIT_MESSAGE" value="Aufgabe 8 fertig" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
