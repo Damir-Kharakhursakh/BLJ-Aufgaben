@@ -4,6 +4,9 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.Title = "Aufgabe 8";
+        Console.WriteLine("Dein Kommentar: ");
+        string kommentar = Console.ReadLine();
+        string[] forbiddenWords = { "viagra", "sex", "porno", "fick", "schlampe", "arsch", "neger", "negger", "huereson", "huere son" };
+        
     }
 }
