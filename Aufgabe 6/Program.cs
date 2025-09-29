@@ -5,13 +5,17 @@ class Program
     static void Main(string[] args)
     {
         int zeilenAbbruch = 10;
-        for (int i = 1; i < 101; i++)
+        for (int i = 1; i < 11; i++)
         {
-            Console.Write(i + "\t");
-            if (zeilenAbbruch == i)
+            for (int n = 1; n < 11; n++)
             {
-                Console.WriteLine(" ");
-                zeilenAbbruch = zeilenAbbruch + 10;
+                int result = i * n;
+                Console.Write(result + "\t");
+                if (zeilenAbbruch == result)
+                {
+                    Console.WriteLine(" ");
+                    zeilenAbbruch = zeilenAbbruch + 10;
+                }
             }
         }
     }
