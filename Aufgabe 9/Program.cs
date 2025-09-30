@@ -4,44 +4,44 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Geben Sie eine Zahl, die Sie in Binäressystem umwandeln wollen: ");
-        Console.WriteLine(" ");
-        bool kayPress = false;
-        
-        while (kayPress == false)
+        bool keypressed = false;
+
+        while (keypressed == false)
         {
-            string eingabe = Console.ReadLine();
-            Console.WriteLine("Eingabe: " + eingabe);
-            int zahl = Convert.ToInt32(eingabe);
-            Console.WriteLine("Zahl: " + zahl);
-            string bin = "";
-            Console.WriteLine("Bin: " + bin);
-            int rest = 0;
-            int value = 0;
-            
+            string bin = (" ");
+            string input;
+            int userNumber;
+            int rest;
+            int value;
 
-            while (zahl != 0)
-            {
-                rest = zahl % 2;
-                bin = rest + bin;
-                value = zahl / 2;
-                zahl = value;
-            }
+            Console.WriteLine("integer number (q + enter to Quit)");
+            input = Console.ReadLine();
 
-            if (zahl == 0)
-            {
-                Console.WriteLine("Die binäre Darstellung von " + eingabe + " ist: " + bin);
-            }
 
-            ConsoleKeyInfo keyInfo = Console.ReadKey();
-            if (keyInfo.KeyChar == 'q')
+
+            if (input == "q")
             {
-                kayPress = true;
+                keypressed = true; 
+                Console.WriteLine("You pressed q which stopped the programm");
             }
             else
             {
-                kayPress = false;
+                userNumber = Convert.ToInt32(input);
+                keypressed = false;
+                while (userNumber != 0)
+                {
+                    rest = userNumber % 2;
+                    bin = rest + bin;
+                    value = userNumber / 2;
+                    userNumber = value;
+                }
+
+                if (userNumber == 0) ;
+                {
+                    Console.WriteLine(bin);
+                }
             }
         }
+
     }
 }

@@ -19,21 +19,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3b96c15e-11e6-46c5-a438-0232099978b2" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.BLJ-Aufgaben/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.BLJ-Aufgaben/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aufgabe 8/bin/Debug/net9.0/Aufgabe 8.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Aufgabe 8/bin/Debug/net9.0/Aufgabe 8.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aufgabe 8/bin/Debug/net9.0/Aufgabe 8.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Aufgabe 8/bin/Debug/net9.0/Aufgabe 8.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aufgabe 8/bin/Debug/net9.0/Aufgabe 8.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Aufgabe 8/bin/Debug/net9.0/Aufgabe 8.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aufgabe 8/obj/Debug/net9.0/Aufgabe 8.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Aufgabe 8/obj/Debug/net9.0/Aufgabe 8.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aufgabe 8/obj/Debug/net9.0/Aufgabe 8.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Aufgabe 8/obj/Debug/net9.0/Aufgabe 8.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aufgabe 8/obj/Debug/net9.0/Aufgabe 8.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Aufgabe 8/obj/Debug/net9.0/Aufgabe 8.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aufgabe 8/obj/Debug/net9.0/Aufgabe 8.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Aufgabe 8/obj/Debug/net9.0/Aufgabe 8.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aufgabe 8/obj/Debug/net9.0/Aufgabe 8.sourcelink.json" beforeDir="false" afterPath="$PROJECT_DIR$/Aufgabe 8/obj/Debug/net9.0/Aufgabe 8.sourcelink.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aufgabe 8/obj/Debug/net9.0/apphost.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Aufgabe 8/obj/Debug/net9.0/apphost.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aufgabe 8/obj/Debug/net9.0/ref/Aufgabe 8.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Aufgabe 8/obj/Debug/net9.0/ref/Aufgabe 8.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aufgabe 8/obj/Debug/net9.0/refint/Aufgabe 8.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Aufgabe 8/obj/Debug/net9.0/refint/Aufgabe 8.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BLJ-AufgabenC#.sln" beforeDir="false" afterPath="$PROJECT_DIR$/BLJ-AufgabenC#.sln" afterDir="false" />
-    </list>
+    <list default="true" id="3b96c15e-11e6-46c5-a438-0232099978b2" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -418,7 +404,7 @@
       <updated>1758880711582</updated>
       <workItem from="1758880712877" duration="2511000" />
       <workItem from="1759123973157" duration="17558000" />
-      <workItem from="1759144593575" duration="10433000" />
+      <workItem from="1759144593575" duration="10545000" />
     </task>
     <task id="LOCAL-00001" summary="Update">
       <option name="closed" value="true" />
@@ -468,7 +454,15 @@
       <option name="project" value="LOCAL" />
       <updated>1759151603866</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Aufgabe 9 am lösen">
+      <option name="closed" value="true" />
+      <created>1759155799704</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1759155799705</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -483,7 +477,8 @@
     <MESSAGE value="Update" />
     <MESSAGE value="Update Check" />
     <MESSAGE value="Aufgabe 8 fertig" />
-    <option name="LAST_COMMIT_MESSAGE" value="Aufgabe 8 fertig" />
+    <MESSAGE value="Aufgabe 9 am lösen" />
+    <option name="LAST_COMMIT_MESSAGE" value="Aufgabe 9 am lösen" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
