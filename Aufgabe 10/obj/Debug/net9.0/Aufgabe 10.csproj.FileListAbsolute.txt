@@ -1,0 +1,15 @@
+C:\BLJ\RiderAufgaben\BLJ-Aufgaben\Aufgabe 10\obj\Debug\net9.0\Aufgabe 10.GeneratedMSBuildEditorConfig.editorconfig
+C:\BLJ\RiderAufgaben\BLJ-Aufgaben\Aufgabe 10\obj\Debug\net9.0\Aufgabe 10.AssemblyInfoInputs.cache
+C:\BLJ\RiderAufgaben\BLJ-Aufgaben\Aufgabe 10\obj\Debug\net9.0\Aufgabe 10.AssemblyInfo.cs
+C:\BLJ\RiderAufgaben\BLJ-Aufgaben\Aufgabe 10\obj\Debug\net9.0\Aufgabe 10.csproj.CoreCompileInputs.cache
+C:\BLJ\RiderAufgaben\BLJ-Aufgaben\Aufgabe 10\obj\Debug\net9.0\Aufgabe 10.sourcelink.json
+C:\BLJ\RiderAufgaben\BLJ-Aufgaben\Aufgabe 10\bin\Debug\net9.0\Aufgabe 10.exe
+C:\BLJ\RiderAufgaben\BLJ-Aufgaben\Aufgabe 10\bin\Debug\net9.0\Aufgabe 10.deps.json
+C:\BLJ\RiderAufgaben\BLJ-Aufgaben\Aufgabe 10\bin\Debug\net9.0\Aufgabe 10.runtimeconfig.json
+C:\BLJ\RiderAufgaben\BLJ-Aufgaben\Aufgabe 10\bin\Debug\net9.0\Aufgabe 10.dll
+C:\BLJ\RiderAufgaben\BLJ-Aufgaben\Aufgabe 10\bin\Debug\net9.0\Aufgabe 10.pdb
+C:\BLJ\RiderAufgaben\BLJ-Aufgaben\Aufgabe 10\obj\Debug\net9.0\Aufgabe 10.dll
+C:\BLJ\RiderAufgaben\BLJ-Aufgaben\Aufgabe 10\obj\Debug\net9.0\refint\Aufgabe 10.dll
+C:\BLJ\RiderAufgaben\BLJ-Aufgaben\Aufgabe 10\obj\Debug\net9.0\Aufgabe 10.pdb
+C:\BLJ\RiderAufgaben\BLJ-Aufgaben\Aufgabe 10\obj\Debug\net9.0\Aufgabe 10.genruntimeconfig.cache
+C:\BLJ\RiderAufgaben\BLJ-Aufgaben\Aufgabe 10\obj\Debug\net9.0\ref\Aufgabe 10.dll
