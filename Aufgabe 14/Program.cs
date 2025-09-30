@@ -11,6 +11,7 @@ class Program
             string input;
 
             Console.WriteLine("Geben Sie das Jahr ein: (q + enter to Quit)");
+            Console.WriteLine(" ");
             input = Console.ReadLine();
             
             if (input == "q")
