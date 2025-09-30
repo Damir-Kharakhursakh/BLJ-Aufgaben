@@ -9,6 +9,16 @@ class Program
         string input = Console.ReadLine();
         string[] stringArray  = input.Split(',');
         int[] intArray = Array.ConvertAll(stringArray, int.Parse);
+        
+        SumUp(intArray);
+        
+    }
+    
+    static int[] SumUp(int[] intArray) 
+    {    
+        //Rückgabe-Array initialisieren 
+        int[] result = new int[intArray.Length]; 
+        
         int sum = 0;
         
         for (int i = 0; i < intArray.Length; i++)
@@ -29,5 +39,7 @@ class Program
                 }
             }
         }
+
+        return result;
     }
 }
