@@ -24,7 +24,21 @@ class Program
                 int userJahr = Convert.ToInt32(input);
                 if (userJahr % 4 == 0)
                 {
-                    Console.WriteLine("Es ist ein Schaltjahr.");
+                    if (userJahr % 100 == 0)
+                    {
+                        if (userJahr % 400 == 0)
+                        {
+                            Console.WriteLine("Es ist ein Schaltjahr.");
+                        }
+                        else
+                        {
+                            Console.WriteLine("Es ist KEIN Schaltjahr.");
+                        }
+                    }
+                    else
+                    {
+                        Console.WriteLine("Es ist ein Schaltjahr.");
+                    }
                 }
                 else
                 {

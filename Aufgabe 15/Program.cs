@@ -1,4 +1,4 @@
-﻿namespace Aufgabe_13;
+﻿namespace Aufgabe_15;
 
 class Program
 {
