@@ -1,0 +1,15 @@
+C:\BLJ\RiderAufgaben\BLJ-Aufgaben\Aufgabe 11\bin\Debug\net9.0\Aufgabe 11.exe
+C:\BLJ\RiderAufgaben\BLJ-Aufgaben\Aufgabe 11\bin\Debug\net9.0\Aufgabe 11.deps.json
+C:\BLJ\RiderAufgaben\BLJ-Aufgaben\Aufgabe 11\bin\Debug\net9.0\Aufgabe 11.runtimeconfig.json
+C:\BLJ\RiderAufgaben\BLJ-Aufgaben\Aufgabe 11\bin\Debug\net9.0\Aufgabe 11.dll
+C:\BLJ\RiderAufgaben\BLJ-Aufgaben\Aufgabe 11\bin\Debug\net9.0\Aufgabe 11.pdb
+C:\BLJ\RiderAufgaben\BLJ-Aufgaben\Aufgabe 11\obj\Debug\net9.0\Aufgabe 11.GeneratedMSBuildEditorConfig.editorconfig
+C:\BLJ\RiderAufgaben\BLJ-Aufgaben\Aufgabe 11\obj\Debug\net9.0\Aufgabe 11.AssemblyInfoInputs.cache
+C:\BLJ\RiderAufgaben\BLJ-Aufgaben\Aufgabe 11\obj\Debug\net9.0\Aufgabe 11.AssemblyInfo.cs
+C:\BLJ\RiderAufgaben\BLJ-Aufgaben\Aufgabe 11\obj\Debug\net9.0\Aufgabe 11.csproj.CoreCompileInputs.cache
+C:\BLJ\RiderAufgaben\BLJ-Aufgaben\Aufgabe 11\obj\Debug\net9.0\Aufgabe 11.sourcelink.json
+C:\BLJ\RiderAufgaben\BLJ-Aufgaben\Aufgabe 11\obj\Debug\net9.0\Aufgabe 11.dll
+C:\BLJ\RiderAufgaben\BLJ-Aufgaben\Aufgabe 11\obj\Debug\net9.0\refint\Aufgabe 11.dll
+C:\BLJ\RiderAufgaben\BLJ-Aufgaben\Aufgabe 11\obj\Debug\net9.0\Aufgabe 11.pdb
+C:\BLJ\RiderAufgaben\BLJ-Aufgaben\Aufgabe 11\obj\Debug\net9.0\Aufgabe 11.genruntimeconfig.cache
+C:\BLJ\RiderAufgaben\BLJ-Aufgaben\Aufgabe 11\obj\Debug\net9.0\ref\Aufgabe 11.dll
