@@ -1,0 +1,15 @@
+C:\BLJ\RiderAufgaben\BLJ-Aufgaben\Ausprobieren2\bin\Debug\net9.0\Ausprobieren2.exe
+C:\BLJ\RiderAufgaben\BLJ-Aufgaben\Ausprobieren2\bin\Debug\net9.0\Ausprobieren2.deps.json
+C:\BLJ\RiderAufgaben\BLJ-Aufgaben\Ausprobieren2\bin\Debug\net9.0\Ausprobieren2.runtimeconfig.json
+C:\BLJ\RiderAufgaben\BLJ-Aufgaben\Ausprobieren2\bin\Debug\net9.0\Ausprobieren2.dll
+C:\BLJ\RiderAufgaben\BLJ-Aufgaben\Ausprobieren2\bin\Debug\net9.0\Ausprobieren2.pdb
+C:\BLJ\RiderAufgaben\BLJ-Aufgaben\Ausprobieren2\obj\Debug\net9.0\Ausprobieren2.GeneratedMSBuildEditorConfig.editorconfig
+C:\BLJ\RiderAufgaben\BLJ-Aufgaben\Ausprobieren2\obj\Debug\net9.0\Ausprobieren2.AssemblyInfoInputs.cache
+C:\BLJ\RiderAufgaben\BLJ-Aufgaben\Ausprobieren2\obj\Debug\net9.0\Ausprobieren2.AssemblyInfo.cs
+C:\BLJ\RiderAufgaben\BLJ-Aufgaben\Ausprobieren2\obj\Debug\net9.0\Ausprobieren2.csproj.CoreCompileInputs.cache
+C:\BLJ\RiderAufgaben\BLJ-Aufgaben\Ausprobieren2\obj\Debug\net9.0\Ausprobieren2.sourcelink.json
+C:\BLJ\RiderAufgaben\BLJ-Aufgaben\Ausprobieren2\obj\Debug\net9.0\Ausprobieren2.dll
+C:\BLJ\RiderAufgaben\BLJ-Aufgaben\Ausprobieren2\obj\Debug\net9.0\refint\Ausprobieren2.dll
+C:\BLJ\RiderAufgaben\BLJ-Aufgaben\Ausprobieren2\obj\Debug\net9.0\Ausprobieren2.pdb
+C:\BLJ\RiderAufgaben\BLJ-Aufgaben\Ausprobieren2\obj\Debug\net9.0\Ausprobieren2.genruntimeconfig.cache
+C:\BLJ\RiderAufgaben\BLJ-Aufgaben\Ausprobieren2\obj\Debug\net9.0\ref\Ausprobieren2.dll

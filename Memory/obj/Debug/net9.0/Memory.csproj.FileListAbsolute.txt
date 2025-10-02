@@ -1,0 +1,15 @@
+C:\BLJ\RiderAufgaben\BLJ-Aufgaben\Memory\bin\Debug\net9.0\Memory.exe
+C:\BLJ\RiderAufgaben\BLJ-Aufgaben\Memory\bin\Debug\net9.0\Memory.deps.json
+C:\BLJ\RiderAufgaben\BLJ-Aufgaben\Memory\bin\Debug\net9.0\Memory.runtimeconfig.json
+C:\BLJ\RiderAufgaben\BLJ-Aufgaben\Memory\bin\Debug\net9.0\Memory.dll
+C:\BLJ\RiderAufgaben\BLJ-Aufgaben\Memory\bin\Debug\net9.0\Memory.pdb
+C:\BLJ\RiderAufgaben\BLJ-Aufgaben\Memory\obj\Debug\net9.0\Memory.GeneratedMSBuildEditorConfig.editorconfig
+C:\BLJ\RiderAufgaben\BLJ-Aufgaben\Memory\obj\Debug\net9.0\Memory.AssemblyInfoInputs.cache
+C:\BLJ\RiderAufgaben\BLJ-Aufgaben\Memory\obj\Debug\net9.0\Memory.AssemblyInfo.cs
+C:\BLJ\RiderAufgaben\BLJ-Aufgaben\Memory\obj\Debug\net9.0\Memory.csproj.CoreCompileInputs.cache
+C:\BLJ\RiderAufgaben\BLJ-Aufgaben\Memory\obj\Debug\net9.0\Memory.sourcelink.json
+C:\BLJ\RiderAufgaben\BLJ-Aufgaben\Memory\obj\Debug\net9.0\Memory.dll
+C:\BLJ\RiderAufgaben\BLJ-Aufgaben\Memory\obj\Debug\net9.0\refint\Memory.dll
+C:\BLJ\RiderAufgaben\BLJ-Aufgaben\Memory\obj\Debug\net9.0\Memory.pdb
+C:\BLJ\RiderAufgaben\BLJ-Aufgaben\Memory\obj\Debug\net9.0\Memory.genruntimeconfig.cache
+C:\BLJ\RiderAufgaben\BLJ-Aufgaben\Memory\obj\Debug\net9.0\ref\Memory.dll

@@ -52,6 +52,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aufgabe 19", "Aufgabe 19\Au
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aufgabe 20", "Aufgabe 20\Aufgabe 20.csproj", "{93F35532-60F0-47EE-B084-3A5F8D76C56E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Memory", "Memory\Memory.csproj", "{B36FFB2B-C34B-42B1-B624-40E11186052B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ausprobieren2", "Ausprobieren2\Ausprobieren2.csproj", "{8B539AD3-7CC0-45C7-B718-6137E47E5CBA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -162,5 +166,13 @@ Global
 		{93F35532-60F0-47EE-B084-3A5F8D76C56E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{93F35532-60F0-47EE-B084-3A5F8D76C56E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{93F35532-60F0-47EE-B084-3A5F8D76C56E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B36FFB2B-C34B-42B1-B624-40E11186052B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B36FFB2B-C34B-42B1-B624-40E11186052B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B36FFB2B-C34B-42B1-B624-40E11186052B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B36FFB2B-C34B-42B1-B624-40E11186052B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B539AD3-7CC0-45C7-B718-6137E47E5CBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B539AD3-7CC0-45C7-B718-6137E47E5CBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B539AD3-7CC0-45C7-B718-6137E47E5CBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B539AD3-7CC0-45C7-B718-6137E47E5CBA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
