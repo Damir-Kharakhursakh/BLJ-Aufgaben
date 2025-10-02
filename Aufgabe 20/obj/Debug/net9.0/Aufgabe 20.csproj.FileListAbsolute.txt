@@ -1,0 +1,18 @@
+C:\BLJ\RiderAufgaben\BLJ-Aufgaben\Aufgabe 20\bin\Debug\net9.0\Aufgabe 20.exe
+C:\BLJ\RiderAufgaben\BLJ-Aufgaben\Aufgabe 20\bin\Debug\net9.0\Aufgabe 20.deps.json
+C:\BLJ\RiderAufgaben\BLJ-Aufgaben\Aufgabe 20\bin\Debug\net9.0\Aufgabe 20.runtimeconfig.json
+C:\BLJ\RiderAufgaben\BLJ-Aufgaben\Aufgabe 20\bin\Debug\net9.0\Aufgabe 20.dll
+C:\BLJ\RiderAufgaben\BLJ-Aufgaben\Aufgabe 20\bin\Debug\net9.0\Aufgabe 20.pdb
+C:\BLJ\RiderAufgaben\BLJ-Aufgaben\Aufgabe 20\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\BLJ\RiderAufgaben\BLJ-Aufgaben\Aufgabe 20\obj\Debug\net9.0\Aufgabe 20.csproj.AssemblyReference.cache
+C:\BLJ\RiderAufgaben\BLJ-Aufgaben\Aufgabe 20\obj\Debug\net9.0\Aufgabe 20.GeneratedMSBuildEditorConfig.editorconfig
+C:\BLJ\RiderAufgaben\BLJ-Aufgaben\Aufgabe 20\obj\Debug\net9.0\Aufgabe 20.AssemblyInfoInputs.cache
+C:\BLJ\RiderAufgaben\BLJ-Aufgaben\Aufgabe 20\obj\Debug\net9.0\Aufgabe 20.AssemblyInfo.cs
+C:\BLJ\RiderAufgaben\BLJ-Aufgaben\Aufgabe 20\obj\Debug\net9.0\Aufgabe 20.csproj.CoreCompileInputs.cache
+C:\BLJ\RiderAufgaben\BLJ-Aufgaben\Aufgabe 20\obj\Debug\net9.0\Aufgabe 20.sourcelink.json
+C:\BLJ\RiderAufgaben\BLJ-Aufgaben\Aufgabe 20\obj\Debug\net9.0\Aufgabe 20.csproj.Up2Date
+C:\BLJ\RiderAufgaben\BLJ-Aufgaben\Aufgabe 20\obj\Debug\net9.0\Aufgabe 20.dll
+C:\BLJ\RiderAufgaben\BLJ-Aufgaben\Aufgabe 20\obj\Debug\net9.0\refint\Aufgabe 20.dll
+C:\BLJ\RiderAufgaben\BLJ-Aufgaben\Aufgabe 20\obj\Debug\net9.0\Aufgabe 20.pdb
+C:\BLJ\RiderAufgaben\BLJ-Aufgaben\Aufgabe 20\obj\Debug\net9.0\Aufgabe 20.genruntimeconfig.cache
+C:\BLJ\RiderAufgaben\BLJ-Aufgaben\Aufgabe 20\obj\Debug\net9.0\ref\Aufgabe 20.dll
