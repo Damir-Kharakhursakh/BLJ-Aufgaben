@@ -1,6 +1,4 @@
-﻿using System;
-using System.IO;
-using System.Net;
+﻿using System.Net;
 using Newtonsoft.Json.Linq;
 
 namespace Aufgabe_20
