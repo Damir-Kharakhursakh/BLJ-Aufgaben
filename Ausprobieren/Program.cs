@@ -10,7 +10,7 @@ class MemoryGame
         bool[,] revealed = new bool[size, size];
         
         // Symbole vorbereiten (8 Paare, deine Wunsch-Zeichen)
-        char[] baseSymbols = { '☺', '#', '♦', '♠', '♥', '♣', '♫', '☼' };
+        char[] baseSymbols = { '!', '#', '=', '*', '@', '^', '-', 'ç' };
 
         List<char> symbols = new List<char>();
         foreach (char c in baseSymbols)
