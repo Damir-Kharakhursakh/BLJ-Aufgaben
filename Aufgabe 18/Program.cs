@@ -2,6 +2,15 @@
 
 class Program
 {
+    static int a = 0;
+    static int e = 0;
+    static int i = 0;
+    static int o = 0;
+    static int u = 0;
+    static int ä = 0;
+    static int ö = 0;
+    static int ü = 0;
+    static int numberVokale;
     static void Main(string[] args)
     {
         string vokale = "aeiouäöüAEOUÄÖÜ";
@@ -10,16 +19,15 @@ class Program
         string kommentar = Console.ReadLine();
         string finalKommentar = kommentar.ToLower();
         int numberVokale = 0;
-        int a = 0;
-        int e = 0;
-        int i = 0;
-        int o = 0;
-        int u = 0;
-        int ä = 0;
-        int ö = 0;
-        int ü = 0;
         
         
+        VokaleFinden(finalKommentar, vokale);
+
+        VokaleAusgeben();
+    }
+
+    static void VokaleFinden(string finalKommentar, string vokale)
+    {
         foreach (char buchstabe in finalKommentar)
         {
             if (vokale.Contains(buchstabe))
@@ -59,7 +67,10 @@ class Program
                 numberVokale++;
             }
         }
+    }
 
+    static void VokaleAusgeben()
+    {
         if (numberVokale > 0)
         {
             Console.WriteLine("Dein Kommentar enthält " + numberVokale + " Vokale" );
