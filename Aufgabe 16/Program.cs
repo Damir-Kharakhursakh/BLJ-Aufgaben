@@ -10,7 +10,7 @@ class Program
             neuStart = false;
             int randomNumber;
             Random rnd = new Random();
-            randomNumber = rnd.Next(1, 101); 
+            randomNumber = rnd.Next(1, 101);
             Console.WriteLine(randomNumber);
         
             Console.WriteLine("Raten Sie die Zahl von 1 bis 100");

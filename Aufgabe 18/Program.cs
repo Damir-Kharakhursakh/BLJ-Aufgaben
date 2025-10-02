@@ -76,35 +76,35 @@ class Program
             Console.WriteLine("Dein Kommentar enthält " + numberVokale + " Vokale" );
             if (a > 0)
             {
-                Console.WriteLine("Der Buchstabe  kommt 'a' " + a + " mal vor");
+                Console.WriteLine("Der Buchstabe 'a' kommt " + a + " mal vor");
             }
             if (e > 0)
             {
-                Console.WriteLine("Der Buchstabe  kommt 'e' " + e + " mal vor");
+                Console.WriteLine("Der Buchstabe 'e' kommt " + e + " mal vor");
             }
             if (i > 0)
             {
-                Console.WriteLine("Der Buchstabe  kommt 'i' " + i + " mal vor");
+                Console.WriteLine("Der Buchstabe 'i' kommt " + i + " mal vor");
             }
             if (o > 0)
             {
-                Console.WriteLine("Der Buchstabe  kommt 'o' " + o + " mal vor");
+                Console.WriteLine("Der Buchstabe 'o' kommt " + o + " mal vor");
             }
             if (u > 0)
             {
-                Console.WriteLine("Der Buchstabe  kommt 'u' " + u + " mal vor");
+                Console.WriteLine("Der Buchstabe 'u' kommt " + u + " mal vor");
             }
             if (ä > 0)
             {
-                Console.WriteLine("Der Buchstabe  kommt 'ä' " + ä + " mal vor");
+                Console.WriteLine("Der Buchstabe 'ä' kommt " + ä + " mal vor");
             }
             if (ö > 0)
             {
-                Console.WriteLine("Der Buchstabe  kommt 'ö' " + ö + " mal vor");
+                Console.WriteLine("Der Buchstabe 'ö' kommt " + ö + " mal vor");
             }
             if (ü > 0)
             {
-                Console.WriteLine("Der Buchstabe  kommt 'ü' " + ü + " mal vor");
+                Console.WriteLine("Der Buchstabe 'ü' kommt " + ü + " mal vor");
             }
         }
         else
