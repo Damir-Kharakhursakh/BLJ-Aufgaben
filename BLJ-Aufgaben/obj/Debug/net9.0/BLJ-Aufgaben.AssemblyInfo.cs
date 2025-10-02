@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BLJ-Aufgaben")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+729e119a4145fe4d7a6f72626df577873032ef54")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5fd15f4bc85528d8cdd82a8aec04e3f63cfee558")]
 [assembly: System.Reflection.AssemblyProductAttribute("BLJ-Aufgaben")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BLJ-Aufgaben")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -4,34 +4,101 @@ class Program
 {
     static void Main(string[] args)
     {
-        string[] forbiddenWords = { "a", "e", "i","o", "u", "ä", "ö", "ü", "A", "E", "O", "U", "Ä", "Ö", "Ü",};
+        string vokale = "aeiouäöüAEOUÄÖÜ";
         Console.WriteLine("Deine Eingabe: ");
         Console.WriteLine(" ");
         string kommentar = Console.ReadLine();
         string finalKommentar = kommentar.ToLower();
-        int numberWords = 0;
+        int numberVokale = 0;
+        int a = 0;
+        int e = 0;
+        int i = 0;
+        int o = 0;
+        int u = 0;
+        int ä = 0;
+        int ö = 0;
+        int ü = 0;
         
-        foreach (string buchstabe in forbiddenWords)
+        
+        foreach (char buchstabe in finalKommentar)
         {
-            if (finalKommentar.Contains(buchstabe))
+            if (vokale.Contains(buchstabe))
             {
-                Console.WriteLine(buchstabe);
-                numberWords++;
-            }
-            else
-            {
-                numberWords++;
+                if (buchstabe == 'a')
+                {
+                    a++;
+                }
+                if (buchstabe == 'e')
+                {
+                    e++;
+                }
+                if (buchstabe == 'i')
+                {
+                    i++;
+                }
+                if (buchstabe == 'o')
+                {
+                    o++;
+                }
+                if (buchstabe == 'u')
+                {
+                    u++;
+                }
+                if (buchstabe == 'ä')
+                {
+                    ä++;
+                }
+                if (buchstabe == 'ö')
+                {
+                    ö++;
+                }
+                if (buchstabe == 'ü')
+                {
+                    ü++;
+                }
+                numberVokale++;
             }
         }
 
-        if (numberWords > 0)
+        if (numberVokale > 0)
         {
-            Console.WriteLine("Dein Kommentar enthält " + numberWords + " Vokale" );
-            Console.WriteLine("Es wird nicht veröffentlicht.");
+            Console.WriteLine("Dein Kommentar enthält " + numberVokale + " Vokale" );
+            if (a > 0)
+            {
+                Console.WriteLine("Der Buchstabe  kommt 'a' " + a + " mal vor");
+            }
+            if (e > 0)
+            {
+                Console.WriteLine("Der Buchstabe  kommt 'e' " + e + " mal vor");
+            }
+            if (i > 0)
+            {
+                Console.WriteLine("Der Buchstabe  kommt 'i' " + i + " mal vor");
+            }
+            if (o > 0)
+            {
+                Console.WriteLine("Der Buchstabe  kommt 'o' " + o + " mal vor");
+            }
+            if (u > 0)
+            {
+                Console.WriteLine("Der Buchstabe  kommt 'u' " + u + " mal vor");
+            }
+            if (ä > 0)
+            {
+                Console.WriteLine("Der Buchstabe  kommt 'ä' " + ä + " mal vor");
+            }
+            if (ö > 0)
+            {
+                Console.WriteLine("Der Buchstabe  kommt 'ö' " + ö + " mal vor");
+            }
+            if (ü > 0)
+            {
+                Console.WriteLine("Der Buchstabe  kommt 'ü' " + ü + " mal vor");
+            }
         }
         else
         {
-            Console.WriteLine("Vielen Dank für deinen Kommentar.");
+            Console.WriteLine("Dein Kommentar enthält keine Vokale.");
         }
     }
 }
