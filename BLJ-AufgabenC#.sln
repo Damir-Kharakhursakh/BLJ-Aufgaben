@@ -56,6 +56,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Memory", "Memory\Memory.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ausprobieren2", "Ausprobieren2\Ausprobieren2.csproj", "{8B539AD3-7CC0-45C7-B718-6137E47E5CBA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Partnerarbeit", "Partnerarbeit\Partnerarbeit.csproj", "{8D1F7377-B991-48B0-A025-31895266725B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -174,5 +176,9 @@ Global
 		{8B539AD3-7CC0-45C7-B718-6137E47E5CBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8B539AD3-7CC0-45C7-B718-6137E47E5CBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8B539AD3-7CC0-45C7-B718-6137E47E5CBA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D1F7377-B991-48B0-A025-31895266725B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D1F7377-B991-48B0-A025-31895266725B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D1F7377-B991-48B0-A025-31895266725B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D1F7377-B991-48B0-A025-31895266725B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

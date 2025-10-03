@@ -1,4 +1,4 @@
-﻿using System.Reflection.Metadata.Ecma335;
+﻿using System;
 
 namespace Partnerarbeit;
 
@@ -9,13 +9,11 @@ class Program
         Console.WriteLine("*********************");
         Console.WriteLine("* Kontakte erfassen *");
         Console.WriteLine("*********************");
+
         int numberKontakt = 1;
-        int arraySize = 1;
-        int positionVorname = 0;
-        int positionNachname = 0;
-        int positionEmail = 0;
+        int position = 0;
         
-        string[,] array = new string[2^31, 2^31];
+        string[,] array = new string[2^31, 3]; 
 
         while (true)
         {
@@ -25,21 +23,17 @@ class Program
             {
                 Console.WriteLine(numberKontakt + ". Kontakt");
                 numberKontakt++;
-                Console.WriteLine("Vorname: ");
+                Console.Write("Vorname: ");
                 string vorname = Console.ReadLine();
-                Console.WriteLine("Nachname: ");
+                Console.Write("Nachname: ");
                 string nachname = Console.ReadLine();
-                Console.WriteLine("E-Mail: ");
+                Console.Write("E-Mail: ");
                 string email = Console.ReadLine();
-                
-                array[positionVorname, 0] = vorname;
-                positionVorname++;
-                array[positionNachname, 1] = nachname;
-                positionNachname++;
-                array[positionEmail, 2] = email;
-                positionEmail++;
-                
-                arraySize = arraySize + 2;
+
+                array[position, 0] = vorname;
+                array[position, 1] = nachname;
+                array[position, 2] = email;
+                position++;
                 continue;
             } 
             else if (input == "y")
@@ -49,18 +43,17 @@ class Program
 
                 if (inputVorNachname == "v")
                 {
-                    for (int i = 0; i < array.GetLength(0); i++)
+                    for (int i = 0; i < position; i++)
                     {
-                        for (int j = 0; j < array.GetLength(1); j++)
-                        {
-                            Console.Write(array[i, j] + "\t");
-                        }
-                        Console.WriteLine();
+                        Console.WriteLine($"{array[i, 0]}\t{array[i, 1]}\t{array[i, 2]}");
                     }
                 } 
                 else if (inputVorNachname == "n")
                 {
-                    
+                    for (int i = 0; i < position; i++)
+                    {
+                        Console.WriteLine($"{array[i, 1]}\t{array[i, 0]}\t{array[i, 2]}");
+                    }
                 }
                 else
                 {

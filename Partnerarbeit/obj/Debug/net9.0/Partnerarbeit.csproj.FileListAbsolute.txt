@@ -1,0 +1,15 @@
+C:\BLJ\RiderAufgaben\BLJ-Aufgaben\Partnerarbeit\bin\Debug\net9.0\Partnerarbeit.exe
+C:\BLJ\RiderAufgaben\BLJ-Aufgaben\Partnerarbeit\bin\Debug\net9.0\Partnerarbeit.deps.json
+C:\BLJ\RiderAufgaben\BLJ-Aufgaben\Partnerarbeit\bin\Debug\net9.0\Partnerarbeit.runtimeconfig.json
+C:\BLJ\RiderAufgaben\BLJ-Aufgaben\Partnerarbeit\bin\Debug\net9.0\Partnerarbeit.dll
+C:\BLJ\RiderAufgaben\BLJ-Aufgaben\Partnerarbeit\bin\Debug\net9.0\Partnerarbeit.pdb
+C:\BLJ\RiderAufgaben\BLJ-Aufgaben\Partnerarbeit\obj\Debug\net9.0\Partnerarbeit.GeneratedMSBuildEditorConfig.editorconfig
+C:\BLJ\RiderAufgaben\BLJ-Aufgaben\Partnerarbeit\obj\Debug\net9.0\Partnerarbeit.AssemblyInfoInputs.cache
+C:\BLJ\RiderAufgaben\BLJ-Aufgaben\Partnerarbeit\obj\Debug\net9.0\Partnerarbeit.AssemblyInfo.cs
+C:\BLJ\RiderAufgaben\BLJ-Aufgaben\Partnerarbeit\obj\Debug\net9.0\Partnerarbeit.csproj.CoreCompileInputs.cache
+C:\BLJ\RiderAufgaben\BLJ-Aufgaben\Partnerarbeit\obj\Debug\net9.0\Partnerarbeit.sourcelink.json
+C:\BLJ\RiderAufgaben\BLJ-Aufgaben\Partnerarbeit\obj\Debug\net9.0\Partnerarbeit.dll
+C:\BLJ\RiderAufgaben\BLJ-Aufgaben\Partnerarbeit\obj\Debug\net9.0\refint\Partnerarbeit.dll
+C:\BLJ\RiderAufgaben\BLJ-Aufgaben\Partnerarbeit\obj\Debug\net9.0\Partnerarbeit.pdb
+C:\BLJ\RiderAufgaben\BLJ-Aufgaben\Partnerarbeit\obj\Debug\net9.0\Partnerarbeit.genruntimeconfig.cache
+C:\BLJ\RiderAufgaben\BLJ-Aufgaben\Partnerarbeit\obj\Debug\net9.0\ref\Partnerarbeit.dll
